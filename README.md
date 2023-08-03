@@ -1,1 +1,1 @@
-# terminal2
+# terminal
