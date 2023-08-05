@@ -6,7 +6,7 @@ echo "Создаем три папки: t1, t2 и t3"
 sleep 2
 mkdir -v t1 t2 t3
 sleep 2
-echo "переходим в папку t1"
+echo "Переходим в папку t1"
 cd t1
 sleep 2
 pwd
