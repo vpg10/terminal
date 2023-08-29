@@ -1,0 +1,14 @@
+Id: 01;
+Title: The "Conacts" button on the main page in the footer;
+Steps:  1. Go to the main page of website by link https://testsite.com";
+        2. Scrolldown the main page till end of page";
+        3. Click the "Contacts" button;
+Expected_result: Contact page opens;
+Actual_result: The transition to the contact page did not take place;
+Environment: 
+        OS: Windows 10;
+        Browser: Chrome 115.0.5790.173;
+Severity: Minor;
+Priority: Medium;
+Attachments: http://screenshots.com/myscreenshot.png .
+
