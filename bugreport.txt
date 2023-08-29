@@ -10,5 +10,5 @@ Environment:
         Browser: Chrome 115.0.5790.173;
 Severity: Minor;
 Priority: Medium;
-Attachments: http://screenshots.com/myscreenshot.png .
+Attachments: http://screenshots.com/myscreenshot.png
 
