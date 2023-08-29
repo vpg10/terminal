@@ -1,0 +1,12 @@
+ID
+Title
+Description
+Precondition
+Steps
+Expected result
+Actual result
+Postcondition
+Priority
+Severity
+Environment
+Attach
